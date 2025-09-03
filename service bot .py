@@ -119,5 +119,5 @@ def main():
                 print("Bot: Okay, if you need anything else, feel free to ask. Have a great day!")
                 break
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
